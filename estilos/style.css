@@ -34,6 +34,7 @@ article.style_article {
     width: 80%;
     text-align: justify;
     background-color: aliceblue;
+    padding-bottom: 25px;
 }
 
 article.style_article>p {
