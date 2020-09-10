@@ -1,0 +1,36 @@
+header.pag1_header{
+    margin: 0;
+    padding: 0;
+    width: 80%;
+    background: rgb(255,152,71); 
+}
+
+header.pag1_header > a{
+    position: relative;
+    width: 100%;
+    height: 9rem;
+}
+a.pag1_top_bar > p{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+a.pag1_top_bar{
+    display: inline-block;  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    color: white;
+    
+}
+
+.footer_pag1{
+    background-color:rgb(255,152,71);
+    text-align-last: center;
+    color: white;
+    width: 80%;
+    margin: 0;
+}
